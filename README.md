@@ -1,5 +1,12 @@
 # Minishell
 This repo provides, as the name already says, a minishell.  
+Functionalities:
+- have a working history
+- redirections '<', '>', '>>' and here document '<<'
+- piping '|'
+- environment variables ($ followed by characters) expand to their values
+- getting exit status
+- ctrl-C ctrl-D ctrl-\ work like in bash
 
 Tested on macOS Monterey.
 
