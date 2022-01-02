@@ -5,18 +5,23 @@ Tested on macOS Monterey.
 
 ## Installation
 
-#### 1) Clone this repository 
+#### 1) Install the readline library
+```
+brew install readline
+```
+
+#### 2) Clone this repository 
 ```
 git clone git@github.com:JL1709/minishell.git
 ```
 
-#### 2) Execute Makfile
+#### 3) Execute Makfile
 ```
 cd minishell
 make
 ```
 
-#### 3)  Run program, for example:
+#### 4)  Run program, for example:
 ```
 ./minishell
 ```
