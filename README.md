@@ -19,7 +19,7 @@ brew install readline
 
 #### 2) Clone this repository 
 ```
-git clone git@github.com:JL1709/minishell.git
+git clone git@github.com:JL1709/Minishell.git
 ```
 
 #### 3) Execute Makfile
