@@ -28,7 +28,7 @@ cd minishell
 make
 ```
 
-#### 4)  Run program, for example:
+#### 4)  Run program
 ```
 ./minishell
 ```
