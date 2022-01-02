@@ -1,5 +1,6 @@
 # Minishell
 This repo provides, as the name already says, a minishell.  
+
 Functionalities:
 - have a working history
 - redirections and here-document
