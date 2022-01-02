@@ -24,7 +24,7 @@ git clone git@github.com:JL1709/minishell.git
 
 #### 3) Execute Makfile
 ```
-cd minishell
+cd Minishell
 make
 ```
 
