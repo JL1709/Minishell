@@ -15,6 +15,7 @@ Tested on macOS Monterey.
 
 #### 1) Install the readline library
 ```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 2> /dev/null
 brew install readline
 ```
 
